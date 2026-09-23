@@ -6,7 +6,6 @@ Este é um **laboratório guiado pronto**. O professor apresenta e explica os tr
 |---|---|
 | Executar e acompanhar a aula | [AULA_01_MCP_I.ipynb](./AULA_01_MCP_I.ipynb) no VS Code. |
 | Ler a aula completa no Continuum | [AULA.md](./AULA.md). |
-| Preparar a fala e as demonstrações | [GUIA_DO_PROFESSOR.md](./GUIA_DO_PROFESSOR.md). |
 | Inspecionar o código do servidor | [servidor_mcp_bv.py](./servidor_mcp_bv.py). |
 | Conferir o que foi testado | [VALIDACAO.md](./VALIDACAO.md). |
 
