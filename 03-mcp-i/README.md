@@ -1,15 +1,3 @@
----
-nyx_id: "cf8f9675-3fbb-4d4d-acdf-4bd8ae9b168d"
-type: "container"
-title: "01 MCP I"
-slug: "01-mcp-i"
-role: "folder"
-status: "draft"
-source: "nyx_world_manual"
-created_at: "2026-09-21T03:50:14.958015+00:00"
-updated_at: "2026-09-21T09:21:20.139836+00:00"
----
-
 # README · Comece a aula MCP I aqui
 
 Este é um **laboratório guiado pronto**. O professor apresenta e explica os trechos; o aluno executa e interpreta. A aula começa consumindo documentação pública, depois explica nosso servidor Python e finalmente reúne ferramentas em um agente.
