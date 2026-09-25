@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langchain-ollama
+langgraph
+chromadb
+pypdf
+pydantic
+python-dotenv
+httpx
